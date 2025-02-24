@@ -3,8 +3,8 @@
 Node.jsとexpressを勉強する過程でつくってみたもの
 
 ## インストールの仕方
-```bash
-https://github.com/new3bon/markdown_conv.git
+``` bash
+git clone https://github.com/new3bon/markdown_conv.git
 cd markdown_conv
 npm install
 npm start
